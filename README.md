@@ -161,7 +161,7 @@
 
 ## 八、Tableau
 
-- [Tableau官方学习平台（含视频、文档）](https://www.tableau.com/zh-cn/learn) 
+- [Tableau官方学习平台（含视频、文档）](https://elearning.tableau.com/desktop-itableau-102018) 
 - [Tableau社区](https://public.tableau.com/s/?_ga=2.71823507.1676038997.1560873286-1514687749.1560873286) 
 - [Tableau作品精选Viz](https://public.tableau.com/s/gallery)
 - [Tableau教程_w3cschool](https://www.w3cschool.cn/tableau/) 
